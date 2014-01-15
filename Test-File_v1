@@ -1,0 +1,7 @@
+This is a GitHub test!!
+
+public static void NoReturnFunktion(int x, int y)
+{
+    Display.draw(x,y);
+    exit;
+}
